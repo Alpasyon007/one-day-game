@@ -4,11 +4,12 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: StandardLightMaterialGradientCarLight
   m_Shader: {fileID: 4800000, guid: d6921e235d4fe1a4ebafa5cd517fb411, type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -32,3 +33,4 @@ Material:
     m_Colors:
     - _Color: {r: 0.26666668, g: 0.8156863, b: 1, a: 0.101960786}
     - _TintColor: {r: 0.8050233, g: 0.9852941, b: 0.39121974, a: 1}
+  m_BuildTextureStacks: []
